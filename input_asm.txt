@@ -1,0 +1,5 @@
+There are three apples, 12 oranges in the kitchen. 7 eggs also. TL 2.45 remaining money. 
+
+I am 7 years old.
+
+123456789 these should be shown with number. 0 is the first number. 
